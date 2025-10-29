@@ -1,11 +1,12 @@
-2025-10-29 12:57:39,017 - laptimes_extractor - INFO - Starting to wait for 2024 season data...
-2025-10-29 12:57:39,018 - laptimes_extractor - INFO - Checking data availability for 2024 Chinese Grand Prix Race...
-2025-10-29 12:57:46,560 - laptimes_extractor - INFO - Data is available for 2024 Chinese Grand Prix Race
-2025-10-29 12:57:46,560 - laptimes_extractor - INFO - Data is available for 2024 season. Starting extraction...
-2025-10-29 12:57:46,560 - laptimes_extractor - INFO - Starting laptimes extraction for 2024 season
-2025-10-29 12:57:46,560 - laptimes_extractor - INFO - Events: ['Chinese Grand Prix', 'Miami Grand Prix', 'Austrian Grand Prix']
-2025-10-29 12:57:46,560 - laptimes_extractor - INFO - Sessions: ['Race']
-2025-10-29 12:57:46,561 - laptimes_extractor - INFO - Processing Chinese Grand Prix - Race
-2025-10-29 12:57:46,561 - laptimes_extractor - INFO - Processing Miami Grand Prix - Race
-2025-10-29 12:57:46,561 - laptimes_extractor - INFO - Processing Austrian Grand Prix - Race
-2025-10-29 12:59:28,922 - laptimes_extractor - INFO - Laptimes extraction completed in 102.36 seconds
+2025-10-29 13:03:12,835 - laptimes_extractor - INFO - Starting to wait for 2024 season data...
+2025-10-29 13:03:12,835 - laptimes_extractor - INFO - Checking data availability for 2024 Chinese Grand Prix Race...
+2025-10-29 13:03:18,292 - laptimes_extractor - INFO - Data is available for 2024 Chinese Grand Prix Race
+2025-10-29 13:03:18,292 - laptimes_extractor - INFO - Data is available for 2024 season. Starting extraction...
+2025-10-29 13:03:18,292 - laptimes_extractor - INFO - Starting laptimes extraction for 2024 season
+2025-10-29 13:03:18,292 - laptimes_extractor - INFO - Events: ['Chinese Grand Prix', 'United States Grand Prix', 'São Paulo Grand Prix', 'Qatar Grand Prix']
+2025-10-29 13:03:18,292 - laptimes_extractor - INFO - Sessions: ['Race']
+2025-10-29 13:03:18,292 - laptimes_extractor - INFO - Processing Chinese Grand Prix - Race
+2025-10-29 13:03:18,293 - laptimes_extractor - INFO - Processing United States Grand Prix - Race
+2025-10-29 13:03:18,293 - laptimes_extractor - INFO - Processing São Paulo Grand Prix - Race
+2025-10-29 13:03:18,301 - laptimes_extractor - INFO - Processing Qatar Grand Prix - Race
+2025-10-29 13:05:17,311 - laptimes_extractor - INFO - Laptimes extraction completed in 119.02 seconds
