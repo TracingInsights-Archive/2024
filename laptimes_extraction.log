@@ -1,12 +1,12 @@
-2025-10-29 12:44:42,582 - laptimes_extractor - INFO - Starting to wait for 2024 season data...
-2025-10-29 12:44:42,582 - laptimes_extractor - INFO - Checking data availability for 2024 Belgian Grand Prix Race...
-2025-10-29 12:44:49,561 - laptimes_extractor - INFO - Data is available for 2024 Belgian Grand Prix Race
-2025-10-29 12:44:49,561 - laptimes_extractor - INFO - Data is available for 2024 season. Starting extraction...
-2025-10-29 12:44:49,561 - laptimes_extractor - INFO - Starting laptimes extraction for 2024 season
-2025-10-29 12:44:49,561 - laptimes_extractor - INFO - Events: ['Belgian Grand Prix', 'Dutch Grand Prix', 'Italian Grand Prix', 'Azerbaijan Grand Prix']
-2025-10-29 12:44:49,562 - laptimes_extractor - INFO - Sessions: ['Race']
-2025-10-29 12:44:49,562 - laptimes_extractor - INFO - Processing Belgian Grand Prix - Race
-2025-10-29 12:44:49,562 - laptimes_extractor - INFO - Processing Dutch Grand Prix - Race
-2025-10-29 12:44:49,563 - laptimes_extractor - INFO - Processing Italian Grand Prix - Race
-2025-10-29 12:44:49,566 - laptimes_extractor - INFO - Processing Azerbaijan Grand Prix - Race
-2025-10-29 12:46:48,879 - laptimes_extractor - INFO - Laptimes extraction completed in 119.32 seconds
+2025-10-29 12:47:52,668 - laptimes_extractor - INFO - Starting to wait for 2024 season data...
+2025-10-29 12:47:52,668 - laptimes_extractor - INFO - Checking data availability for 2024 Singapore Grand Prix Race...
+2025-10-29 12:47:59,382 - laptimes_extractor - INFO - Data is available for 2024 Singapore Grand Prix Race
+2025-10-29 12:47:59,382 - laptimes_extractor - INFO - Data is available for 2024 season. Starting extraction...
+2025-10-29 12:47:59,382 - laptimes_extractor - INFO - Starting laptimes extraction for 2024 season
+2025-10-29 12:47:59,382 - laptimes_extractor - INFO - Events: ['Singapore Grand Prix', 'Mexico City Grand Prix', 'Las Vegas Grand Prix', 'Abu Dhabi Grand Prix']
+2025-10-29 12:47:59,382 - laptimes_extractor - INFO - Sessions: ['Race']
+2025-10-29 12:47:59,382 - laptimes_extractor - INFO - Processing Singapore Grand Prix - Race
+2025-10-29 12:47:59,383 - laptimes_extractor - INFO - Processing Mexico City Grand Prix - Race
+2025-10-29 12:47:59,383 - laptimes_extractor - INFO - Processing Las Vegas Grand Prix - Race
+2025-10-29 12:47:59,385 - laptimes_extractor - INFO - Processing Abu Dhabi Grand Prix - Race
+2025-10-29 12:50:05,839 - laptimes_extractor - INFO - Laptimes extraction completed in 126.46 seconds
