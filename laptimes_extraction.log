@@ -1,11 +1,12 @@
-2025-10-29 12:25:29,418 - laptimes_extractor - INFO - Starting to wait for 2024 season data...
-2025-10-29 12:25:29,418 - laptimes_extractor - INFO - Checking data availability for 2024 Japanese Grand Prix Race...
-2025-10-29 12:25:36,027 - laptimes_extractor - INFO - Data is available for 2024 Japanese Grand Prix Race
-2025-10-29 12:25:36,027 - laptimes_extractor - INFO - Data is available for 2024 season. Starting extraction...
-2025-10-29 12:25:36,028 - laptimes_extractor - INFO - Starting laptimes extraction for 2024 season
-2025-10-29 12:25:36,028 - laptimes_extractor - INFO - Events: ['Japanese Grand Prix', 'Emilia Romagna Grand Prix', 'Monaco Grand Prix']
-2025-10-29 12:25:36,028 - laptimes_extractor - INFO - Sessions: ['Race']
-2025-10-29 12:25:36,028 - laptimes_extractor - INFO - Processing Japanese Grand Prix - Race
-2025-10-29 12:25:36,029 - laptimes_extractor - INFO - Processing Emilia Romagna Grand Prix - Race
-2025-10-29 12:25:36,029 - laptimes_extractor - INFO - Processing Monaco Grand Prix - Race
-2025-10-29 12:27:15,860 - laptimes_extractor - INFO - Laptimes extraction completed in 99.83 seconds
+2025-10-29 12:28:49,303 - laptimes_extractor - INFO - Starting to wait for 2024 season data...
+2025-10-29 12:28:49,303 - laptimes_extractor - INFO - Checking data availability for 2024 Canadian Grand Prix Race...
+2025-10-29 12:28:56,826 - laptimes_extractor - INFO - Data is available for 2024 Canadian Grand Prix Race
+2025-10-29 12:28:56,826 - laptimes_extractor - INFO - Data is available for 2024 season. Starting extraction...
+2025-10-29 12:28:56,826 - laptimes_extractor - INFO - Starting laptimes extraction for 2024 season
+2025-10-29 12:28:56,826 - laptimes_extractor - INFO - Events: ['Canadian Grand Prix', 'Spanish Grand Prix', 'British Grand Prix', 'Hungarian Grand Prix']
+2025-10-29 12:28:56,826 - laptimes_extractor - INFO - Sessions: ['Race']
+2025-10-29 12:28:56,827 - laptimes_extractor - INFO - Processing Canadian Grand Prix - Race
+2025-10-29 12:28:56,827 - laptimes_extractor - INFO - Processing Spanish Grand Prix - Race
+2025-10-29 12:28:56,827 - laptimes_extractor - INFO - Processing British Grand Prix - Race
+2025-10-29 12:28:56,829 - laptimes_extractor - INFO - Processing Hungarian Grand Prix - Race
+2025-10-29 12:31:15,646 - laptimes_extractor - INFO - Laptimes extraction completed in 138.82 seconds
