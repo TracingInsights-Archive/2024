@@ -1,0 +1,11 @@
+2025-10-29 12:21:47,745 - laptimes_extractor - INFO - Starting to wait for 2024 season data...
+2025-10-29 12:21:47,745 - laptimes_extractor - INFO - Checking data availability for 2024 Bahrain Grand Prix Race...
+2025-10-29 12:21:55,471 - laptimes_extractor - INFO - Data is available for 2024 Bahrain Grand Prix Race
+2025-10-29 12:21:55,471 - laptimes_extractor - INFO - Data is available for 2024 season. Starting extraction...
+2025-10-29 12:21:55,471 - laptimes_extractor - INFO - Starting laptimes extraction for 2024 season
+2025-10-29 12:21:55,471 - laptimes_extractor - INFO - Events: ['Bahrain Grand Prix', 'Saudi Arabian Grand Prix', 'Australian Grand Prix']
+2025-10-29 12:21:55,471 - laptimes_extractor - INFO - Sessions: ['Race']
+2025-10-29 12:21:55,472 - laptimes_extractor - INFO - Processing Bahrain Grand Prix - Race
+2025-10-29 12:21:55,472 - laptimes_extractor - INFO - Processing Saudi Arabian Grand Prix - Race
+2025-10-29 12:21:55,479 - laptimes_extractor - INFO - Processing Australian Grand Prix - Race
+2025-10-29 12:23:20,420 - laptimes_extractor - INFO - Laptimes extraction completed in 84.95 seconds
