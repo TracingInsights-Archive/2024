@@ -47,12 +47,12 @@ class LaptimeExtractor:
         self.ergast_client = ErgastClient()
 
         self.events = events or [
-            "Bahrain Grand Prix",
-            "Saudi Arabian Grand Prix",
-            "Australian Grand Prix",
-            # "Japanese Grand Prix",
-            # "Emilia Romagna Grand Prix",
-            # "Monaco Grand Prix",
+            # "Bahrain Grand Prix",
+            # "Saudi Arabian Grand Prix",
+            # "Australian Grand Prix",
+            "Japanese Grand Prix",
+            "Emilia Romagna Grand Prix",
+            "Monaco Grand Prix",
             # "Canadian Grand Prix",
             # "Spanish Grand Prix",
             # "British Grand Prix",
@@ -427,6 +427,7 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
 
