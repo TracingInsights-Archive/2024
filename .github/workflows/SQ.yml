@@ -21,7 +21,7 @@ jobs:
             cache/1.txt
             cache_preseason/1.txt
             requirements.txt
-            SQ.py            
+            telSQ.py            
             utils.py
           sparse-checkout-cone-mode: false    
       - name: Set up Python
@@ -45,7 +45,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Run Telemetry Extraction
-        run: python SQ.py
+        run: python telSQ.py
         env:
           GITHUB_ACTIONS: "true"
 

@@ -21,7 +21,7 @@ jobs:
             cache/1.txt
             cache_preseason/1.txt
             requirements.txt
-            FP2.py            
+            telFP2.py            
             utils.py
           sparse-checkout-cone-mode: false    
       - name: Set up Python
@@ -45,7 +45,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Run Telemetry Extraction
-        run: python FP2.py
+        run: python telFP2.py
         env:
           GITHUB_ACTIONS: "true"
 
