@@ -51,10 +51,10 @@ TARGET_EVENT_NAMES_LIST = [
 
             #sprints
             # "Chinese Grand Prix",
-            "Miami Grand Prix",
+            # "Miami Grand Prix",
             # "Austrian Grand Prix",
             # "United States Grand Prix",
-            # "São Paulo Grand Prix",
+            "São Paulo Grand Prix",
             # "Qatar Grand Prix",
         ]
 if len(TARGET_EVENT_NAMES_LIST) != 1:

@@ -50,10 +50,10 @@ TARGET_EVENT_NAMES_LIST = [
             # "Abu Dhabi Grand Prix",
 
             #sprints
-            "Chinese Grand Prix",
+            # "Chinese Grand Prix",
             # "Miami Grand Prix",
             # "Austrian Grand Prix",
-            # "United States Grand Prix",
+            "United States Grand Prix",
             # "São Paulo Grand Prix",
             # "Qatar Grand Prix",
         ]
